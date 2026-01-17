@@ -18,8 +18,6 @@ Aplikasi ini dikembangkan menggunakan Python dengan fokus pada kemudahan penggun
 
 \- \*\*Modern Dark UI\*\*: Tampilan minimalis bertema gelap yang nyaman di mata.
 
-\- \*\*Global Hotkey\*\*: Tekan `Win + Shift + A` untuk memunculkan aplikasi secara instan dari latar belakang.
-
 \- \*\*Search \& Manage\*\*: Pencarian cepat, penomoran urut, dan fitur hapus per item atau sekaligus.
 
 \- \*\*Custom Transparency\*\*: Atur tingkat transparansi jendela agar tidak menghalangi pekerjaan Anda.
