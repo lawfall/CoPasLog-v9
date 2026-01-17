@@ -1,0 +1,22 @@
+# --- Python Trash ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+env/
+
+# --- PyInstaller Trash (Hasil Build) ---
+build/
+dist/
+*.spec
+
+# --- Local Database ---
+# Kita abaikan file database agar history pribadi Anda tidak ikut terupload ke publik
+*.db
+*.db-journal
+
+# --- System Files ---
+.DS_Store
+Thumbs.db
